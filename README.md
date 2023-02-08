@@ -5,4 +5,4 @@ A simple cool website made using streamlit, python3, basic css.
 Just made this while I was learning about streamlit in Python3.
 
 # Preview
-![Website preview](https://user-images.githubusercontent.com/91661118/146315681-c67f542d-e2bc-43ca-9957-7f1971b84268.png)
+![preview](https://user-images.githubusercontent.com/91788439/217499141-8d6f2e2d-8587-4d05-b171-143fb96e66d6.png)
